@@ -5,7 +5,7 @@ import shutil
 import subprocess
 
 # Nastav URL tvojho GitHub repozitára
-repo_url = 'https://github.com/MyAcc/Python/AutoGit'
+repo_url = 'https://github.com/fattcat/PY-AutoUpdate/AutoGit'
 
 # Funkcia na stiahnutie poslednej verzie z GitHub
 def download_latest_version():
