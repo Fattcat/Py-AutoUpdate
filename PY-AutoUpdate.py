@@ -3,7 +3,7 @@ import git
 import os
 
 # Nastav URL tvojho GitHub repozitára
-repo_url = 'https://github.com/fattcat/AutoGit'
+repo_url = 'https://github.com/fattcat/Py-AutoUpdate/AutoGit'
 
 # Funkcia na stiahnutie poslednej verzie z GitHub
 def download_latest_version():
