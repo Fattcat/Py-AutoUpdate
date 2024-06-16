@@ -28,7 +28,7 @@ def update_repo(repo_url, local_dir):
 # Kontrola dostupnosti internetového pripojenia
 if is_internet_available():
     print("Internetové pripojenie je k dispozícii.")
-    repo_url = "https://github.com/Fattcat/PY-AutoUpdate.git"
+    repo_url = "https://github.com/Fattcat/Py-AutoUpdate.git"
     local_dir = "MyFolder"
     update_repo(repo_url, local_dir)
 else:
